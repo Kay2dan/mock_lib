@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "ssh://git@github.com:@Kay2dan/mock_lib.git"
+    "url": "ssh://git@github.com:Kay2dan/mock_lib.git"
   },
   "scripts": {
     "start": "react-scripts start",
