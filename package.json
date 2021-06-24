@@ -1,15 +1,17 @@
 {
-  "name": "mock_lib2",
+  "name": "@Kay2dan/mock_lib",
   "version": "0.1.0",
-  "private": false,
   "main": "dist/index.js",
   "files": [
     "dist",
     "README.md"
   ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/Kay2dan"
+  },
   "repository": {
     "type": "git",
-    "url": "URL_OF_YOUR_REPOSITORY"
+    "url": "ssh://git@github.com:Kay2dan/mock_lib.git"
   },
   "scripts": {
     "start": "react-scripts start",
